@@ -1,0 +1,19 @@
+{
+	"meta": {
+		"mail": "thomas@tursics.de",
+		"twitter": "https://twitter.com/tursics/",
+		"github": "https://github.com/tursics/data-dashboard/",
+		"showMenuCity": false,
+		"background": "vienna/castle-1004838.jpg",
+		"uri": "http://daten-waben.tursics.de/"
+	},
+	"data": {
+		"ckan": "https://www.data.gv.at/katalog/api/3/action/organization_activity_list?id=stadt-wien"
+	},
+	"cards": [
+		"vienna/8d52bd9a-6dcf-470b-95fa-9632e837caab.json",
+		"vienna/87f121a7-eef0-4be9-9372-a5efe5b4d375.json",
+		"vienna/87fc82a0-0042-49c8-b6f9-2602cd3dc17a.json",
+		"vienna/6858b208-62bc-424e-9d7b-c89b74d3d3e3.json"
+	]
+}

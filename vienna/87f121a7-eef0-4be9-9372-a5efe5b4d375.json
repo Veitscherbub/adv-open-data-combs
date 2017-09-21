@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Austria",
+		"city": "Wien"
+	},
+	"portal": {
+		"url": "https://www.data.gv.at/katalog/dataset/87f121a7-eef0-4be9-9372-a5efe5b4d375",
+		"title": "Kindergärten - Standorte Wien",
+		"description": "Kindergärten, Standorte, Wien ",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "Magistratsabteilung 11 -  Amt für Jugend und Familie",
+		"author": "post@ma11.wien.gv.at",
+		"created": "2012-04-11",
+		"updated": "2016-06-06"
+	},
+	"front": {
+		"textTop": "Über",
+		"textBottom": "Kindergärten in Wien",
+		"value": "1800",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/family.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Finde den Kindergarten, der zu Dir passt",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

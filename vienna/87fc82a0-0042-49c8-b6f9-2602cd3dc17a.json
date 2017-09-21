@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Austria",
+		"city": "Wien"
+	},
+	"portal": {
+		"url": "https://www.data.gv.at/katalog/dataset/87fc82a0-0042-49c8-b6f9-2602cd3dc17a",
+		"title": "VIE-Vornamen - Wien",
+		"description": "VIE-Ranking der 100 häufigsten Vornamen in Wien nach Geschlecht seit 2006",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "Magistratsabteilung 23 - Wirtschaft, Arbeit und Statistik",
+		"author": "",
+		"created": "2016-04-18",
+		"updated": "2016-05-24"
+	},
+	"front": {
+		"textTop": "Passender Name für",
+		"textBottom": "gesucht?",
+		"value": "Baby",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/gender.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Ranking der 100 häufigsten Vornamen in Wien nach Geschlecht seit 2006",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

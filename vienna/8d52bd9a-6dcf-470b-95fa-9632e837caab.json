@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Austria",
+		"city": "Wien"
+	},
+	"portal": {
+		"url": "https://www.data.gv.at/katalog/dataset/8d52bd9a-6dcf-470b-95fa-9632e837caab",
+		"title": "Anteil PKW mit Elektro- oder Hybridantrieb - Wien",
+		"description": "Anteil von Personenkraftwagen (PKW) mit Elektro- oder Hybridantrieb in Wien",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "Magistratsabteilung 20 - Energieplanung",
+		"author": "post@ma20.wien.gv.at",
+		"created": "2016-09-26",
+		"updated": "2016-09-30"
+	},
+	"front": {
+		"textTop": "Es gibt 2014",
+		"textBottom": "Elektro-Autos in Wien",
+		"value": "3689",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/sun.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Der Anteil von PKW mit Elektro- oder Hybridantrieb in Wien steigt",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}

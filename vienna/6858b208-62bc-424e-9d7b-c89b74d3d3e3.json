@@ -1,0 +1,32 @@
+{
+	"location": {
+		"country": "Austria",
+		"city": "Wien"
+	},
+	"portal": {
+		"url": "https://www.data.gv.at/katalog/dataset/6858b208-62bc-424e-9d7b-c89b74d3d3e3",
+		"title": "Kurzparkzonen - Wien",
+		"description": "Kurzparkzonen, Wien ",
+		"license": "Creative Commons Namensnennung Lizenz",
+		"licenseURL": "http://creativecommons.org/licenses/by/3.0/de/",
+		"attribution": "Magistratsabteilung 46 - Verkehrsorganisation und technische Verkehrsangelegenheiten",
+		"author": "post@ma46.wien.gv.at",
+		"created": "2012-04-11",
+		"updated": "2016-05-24"
+	},
+	"front": {
+		"textTop": "Wie lange kann ich",
+		"textBottom": " ",
+		"value": "Parken ?",
+		"unit": "",
+		"changePerDay": "",
+		"format": "string",
+		"background": "img/parking.svg",
+		"color": "#ffffff"
+	},
+	"back": {
+		"text": "Wie lange und wo kurz parken in Wien",
+		"color": "#000000",
+		"cssClass": ""
+	}
+}
