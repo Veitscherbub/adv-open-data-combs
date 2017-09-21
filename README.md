@@ -25,7 +25,7 @@ Set the slug of your page in the **wp-config.php**.
 ## Contact
 If you have question, ideas: [mail me](mailto:christian.buchhas@wien.gv.at) or [follow me](https://github.com/advbus).
 
-If you found Bugs, please don't sqash them, let 'em live :stuck_out_tongue_winking_eye:
+If you find some Bugs, please don't sqash them, let 'em live :stuck_out_tongue_winking_eye:
 
 ## License
 Copyright 2016 Thomas Tursics. Licensed under the [MIT License](../master/LICENSE).
